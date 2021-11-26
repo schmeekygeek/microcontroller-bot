@@ -1,0 +1,17 @@
+**ESP8266**
+The popularity of the ESP8266 cannot be contested. It is unarguably one of the most impactful microcontrollers of the last decade and it definitely was one of the pacesetters for the current trend of microcontrollers with fused communication capabilities.
+**Features**
+    16 General Purpose Input/Output Pins (GPIOs)
+    L106 32-bit RISC mircoprocessor core.
+    **Memories**
+        32 KBytes Instruction Memory
+        32 KBytes Instruction cache Memory
+        8- Kytes user-date Memory
+    **Clock**
+        CPU based on the Tensilica Standard 106 Micro running at 80 MHz
+    **Interfaces**
+        IEEE 802.11 b/g/n Wi-Fi
+        I2C software implementation
+        I2S interface with DMA
+    **Timers**
+        Two hardware timers

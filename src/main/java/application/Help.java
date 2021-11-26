@@ -19,7 +19,7 @@ public class Help implements MessageCreateListener {
 			.addField("**List Microcontrollers**", "`mc list`  Lists all the avalaible microcontrollers")
 			.addField(
 				"**Get Information about a certain microcontroller**",
-				"`mc info <name>`  Fetches detailed and comprehensive information about a certain microcontroller\nExample: `mp info 8085`"
+				"`mc info <name>`  Fetches detailed and comprehensive information about a certain microcontroller\nExample: `mp info <1-10>`"
 			)
 			.addField("**Say Hi to me!**", "`hi` or `hello`");
 

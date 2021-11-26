@@ -1,0 +1,17 @@
+**Attiny85**
+Loved for their tiny form-factor, the Attiny series of microcontrollers are considered as the go-to microcontroller for projects where a small form factor is desired, and the number of GPIOs required is low.
+**Features**
+    6 General Purpose Input/Output (GPIO)
+    Features a cpu of type RISC 8-bit AVR
+    **Memories**
+        8 KBytes of Program Memory
+        512 Bytes Memory
+        512 Bytes EEPROM
+    **Clock**
+        Maximum oscillator speed - Up to 20Mhz
+    **Interfaces**
+        SPI, I2C and USART communication protocols
+        One Comparator
+    **Timers**
+        Two 8 bit Timers
+

@@ -1,0 +1,17 @@
+**NXP LPC1768**
+The LPC1768 is a Cortex-M3 microcontroller designed for enbedded applications with low power requirements.
+**Features**
+        Features a high level of integration and low power consumtion at frequencies of up to 100 MHz
+        70 General Purpose I/O pins with configurable pull-up/down resistors
+    **Memories**
+        512 KBytes on-chip flash programming memory
+        64 KBytes on-chip SRAM
+    **Clock**
+        Clock frequencies reach upto 100MHz
+    **Interfaces**
+        8 channel DMA controller and 4 UARTs
+        USB 2.0 full-speed device/Host/OTG controller
+        Ethernet MAC with RMII interface and dedicated DMA controller
+    **Timers**
+        repetitive interrupt timer provides programmable and repeating timed interrupts
+        ARM Cortex-M3 system tick timer, including an external clock input option

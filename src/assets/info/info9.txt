@@ -1,0 +1,20 @@
+**STM8S103F3**
+The STM8 family of microcontrollers offers a highperformance 9-bit core and a state-of-the-art peripherals in a tiny fom factor
+**Features**
+    Offers an 8 KByte Flash program memory, with an integrated true data EEPROM, advanced core and peripherals, robust I/Os,a clock security system, all of which ensures its high perfirmance and overall system robustness.
+    Up to 28 I/Os on a 32-pin package including 21 high sink outputs
+    96-bit unique key for each device
+    **Memories**
+        8 KByte Flash
+        640 Byte true data EEPROM
+        1 KByte Memory
+    **Clock**
+        Flexible clock control
+        Internal, user-trimmable 16MHz RC
+        Internal, low-powe 128 KHz RC
+    **Interfaces**
+        UART with clock output for sunchronous operation
+        SmartCard, LIN master mode
+    **Timers**
+        16 bit Advanced Control Timer
+        8 bit Basic Timer with 8 bit prescaler

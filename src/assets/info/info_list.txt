@@ -1,3 +1,13 @@
 `1. STM32F103C8T6`
 `2. ATmega328`
 `3. PIC16F877A`
+`4. Attiny85`
+`5. MSP430G2452`
+`6. ESP8266`
+`7. ESP32`
+`8. ATMEGAA32U4`
+`9. STM8S103F3`
+`10. NXP-LPC1768`
+
+Reference link: https://www.electronics-lab.com/top-10-popular-microcontrollers-among-makers/
+**More Microcontrollers Coming Soon!**

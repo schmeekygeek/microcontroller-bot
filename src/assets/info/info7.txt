@@ -1,0 +1,21 @@
+**ESP32**
+An upgrade to ESP8266, the ESP32 has enjoyed great support and adoption since its release few years back.
+**Features**
+        Xtensa dual-core 32-bit LX6 microprocessor
+        Built-In antenna switches, power amplifier, low-noise receeve amplifier.
+        Also encorporates for security features like cryptographic hardware acceleration, flash encryption and secure boot.
+    **Memories**
+        32 KBytes Instruction Memory
+        32 KBytes Instruction cache Memory
+        8- Kytes user-date Memory
+    **Clock**
+        Clocks at around 240 MHz performs at up to 600 DMIPS
+    **Interfaces**
+        Wi-Fi 802.11 b/g/n
+        Bluetooth v4.2 BR/EDR and BLE
+        4 SPIs
+        2 I2S Interfaces
+        2 I2C Interfaces
+        3 UART
+    **Timers**
+        Contains two hardware timer groups both 64-bits generic timers based on 16-bit pre-scalers

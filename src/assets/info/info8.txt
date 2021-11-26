@@ -1,0 +1,17 @@
+**ATMEGA32U4**
+The ATMEGA32U4 is a low-power microchip 8-bit AVR RISC-based microcontroller featuring 32 KB self-programming flash program memory
+**Features**
+        Complies filly with Universal Serial Bus Specification Rev. 2.0
+        Supports data transfer rates up to 12 MBytes/s and 1.5 MBytes/s
+    **Memories**
+        2.5 KByte SRAM 
+        1 KByte EEPROM
+    **Clock**
+        Able to execute powerful instructions in a single clock cycle.
+        Able to achieve up tp 16 MIPS throughput at 16 MHz
+        Fully independent 832 bytes USB DPRAM for endpoint memory allocation
+    **Interfaces**
+        USB Bus Connection/Disconnection on microcontroller
+        USB Rev. 2.0 support
+    **Timers**
+        Contains 4 different timers (8 bit, 16 bit, 16 bit, 10 bit)

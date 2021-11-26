@@ -1,0 +1,20 @@
+**MSP430G2452**
+The MSP430 family of microcontrollers from TI are considerd as some of the most modern microcontrollers and the most popular member of that famuly so far has been the MSP430G2452Q.
+**Features**
+    Very Low Power Consumption
+    Powerful and relatively cheap microcontroller.
+    8 Comparator channels
+    16 General Purpose Input/Output pins (GPIOs)
+    **Memories**
+        8 KBytes of Non-Volatile Memory
+        256 Bytes of SRAM
+    **Clock**
+        Clock speed of 1 MHz
+        Low-Frequenct Oscillator - 32 KHz Crystal
+    **Interfaces**
+        I2C, SPI communication protocols
+        One Comparator
+    **Timers**
+        One 16 bit timer
+
+

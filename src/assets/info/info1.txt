@@ -7,7 +7,7 @@ The STM32F10C8T6 is a popular member of the STM32F103xx medium-density peformanc
         20 Kbytes of SRAM
     **Clock**
         Internal 8 Mhz factory trimmed RC
-        Internal $0 kHz RC - PLL for CPU clock
+        Internal 40 kHz RC - PLL for CPU clock
         32 kHz oscillator for RTC with calibration
     **Interfaces**
         Up to 9 communication interfaces - 2 x 12C interfaces (SMBus/PMBus)
