@@ -1,0 +1,14 @@
+**PIC16F877A**
+The PIC16F877A is one of the most popular 8-bit microcontroller in the PIC family of MCUs. While it's considered old by some and past its time, the PIC16F877A is no doubt, still extremely relevant even today
+    **Features**
+        Features a CMOS Flash-based 8-bit microcontroller that packs powerful PIC architecture into a 40 or 44 pin package
+        **Memories**
+            256 bytes of EEPROM data memory
+            14Kbytes of program memory size
+        **Clock**
+            200 nanosecond instruction execution
+        **Interfaces**
+            Universal Asynchronous Receiver Transmitter
+            3-wire Serial Peripheral Interface
+        **Timers**
+            2 high performance 8 bit digital timers

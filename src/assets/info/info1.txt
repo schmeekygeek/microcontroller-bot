@@ -1,0 +1,18 @@
+**STM32F10C8T6**
+The STM32F10C8T6 is a popular member of the STM32F103xx medium-density peformance line family of microcontrollers that featurn a high-performance ARM cortex-M3 32-bit RISC core operating at a 72 Mhz frequency. 
+**Features**
+    **ARM 32-bit Cortex-M3 Core - 72 Mhz maximum frequency.**
+    **Memories**
+        64 or 128 kbytes of Flash memory
+        20 Kbytes of SRAM
+    **Clock**
+        Internal 8 Mhz factory trimmed RC
+        Internal $0 kHz RC - PLL for CPU clock
+        32 kHz oscillator for RTC with calibration
+    **Interfaces**
+        Up to 9 communication interfaces - 2 x 12C interfaces (SMBus/PMBus)
+        USB 2.0 full-speed interface
+    **Timers**
+        Three 16-bit timers with quadrature (incremental) encoder input
+        16-bit motor control PWM timer with deadtime generation and emergency stop
+

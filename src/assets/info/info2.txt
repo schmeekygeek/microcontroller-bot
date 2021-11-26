@@ -1,0 +1,17 @@
+**Atmega328p**
+Arguably one of the most popular microcontrollers in the world, the Atmega328p has been the microcontroller of choice to a lot of designers who want to avoid the bulkiness of the Arduino boards, but retain the eas of programming, community support, etc.
+    **Features**
+        Features an 8-bit AVR microcontroller based on an advanced RISC architecture and combines 32 ISP flash memory with read-while-write capabilites.
+        **Memories**
+            1KB EEPROM
+            2KB SRAM
+            32 KB Flash Memory
+        **Clock**
+            Clock/CPU speed (MIPS/DMIPS) -20
+            High performance RISC cores with 72Mhz operating frequency
+        **Interfaces**
+            Standard and advanced communication interfaces
+            32 general-purpose working registers
+        **Timers**
+            Three flexible timer/counters with compare modes, internal and external interrupts.
+            Programmable watchdog timer with internal oscillator
