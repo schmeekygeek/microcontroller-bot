@@ -10,7 +10,10 @@ public class Greet implements MessageCreateListener {
 	public void onMessageCreate(MessageCreateEvent event) {
 		String[] text = event.getMessage().getContent().split(" ");
 		try {
-			if (text[0].equalsIgnoreCase("hi") || text[0].equalsIgnoreCase("hello")) {
+			if (
+				text[0].equalsIgnoreCase("hi") ||
+				text[0].equalsIgnoreCase("hello")
+			) {
 				event.getChannel().sendMessage(sayHello());
 			}
 		} catch (Exception exception) {
