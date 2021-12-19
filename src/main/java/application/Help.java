@@ -1,11 +1,15 @@
 package application;
 
 import java.awt.Color;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.javacord.api.entity.message.embed.EmbedBuilder;
 import org.javacord.api.event.message.MessageCreateEvent;
 import org.javacord.api.listener.message.MessageCreateListener;
 
 public class Help implements MessageCreateListener {
+
+	private static final Logger LOGGER = LogManager.getLogger(Help.class);
 
 	@Override
 	public void onMessageCreate(MessageCreateEvent event) {
@@ -28,6 +32,12 @@ public class Help implements MessageCreateListener {
 			.addField("**Say Hi to me!**", "`hi` or `hello`");
 
 		if (event.getMessage().getContent().equalsIgnoreCase("mc help")) {
+			LOGGER.info(
+				"In " +
+				event.getChannel() +
+				event.getMessageAuthor().getDiscriminatedName() +
+				" issued a help command"
+			);
 			event.getChannel().sendMessage(helpEmbed);
 		}
 	}
