@@ -34,7 +34,7 @@ public class Help implements MessageCreateListener {
 		if (event.getMessage().getContent().equalsIgnoreCase("mc help")) {
 			LOGGER.info(
 				"In " +
-				event.getChannel() +
+				event.getChannel() + " " +
 				event.getMessageAuthor().getDiscriminatedName() +
 				" issued a help command"
 			);
