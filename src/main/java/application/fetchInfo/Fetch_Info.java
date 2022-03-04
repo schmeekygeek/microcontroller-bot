@@ -1,4 +1,4 @@
-package fetchInfo;
+package application.fetchInfo;
 
 import java.awt.Color;
 import java.io.BufferedReader;
